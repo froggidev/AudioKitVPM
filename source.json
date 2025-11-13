@@ -1,7 +1,7 @@
 {
     "name":"Froggi Audio Kit",
-    "id":"com.FroggiAudioKit.listing",
-    "url":"https://froggidev.github.io/audiokitvpm/index.json",
+    "id":"com.audiokitvpm.listing",
+    "url":"https://froggidev.github.io/AudioKitVPM/index.json",
     "author":{
         "email":"froggi.dev@gmail.com",
         "name":"FroggiDev",
