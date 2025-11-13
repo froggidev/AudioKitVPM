@@ -1,27 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Froggi Audio Kit",
+    "id":"com.FroggiAudioKit.listing",
+    "url":"https://froggidev.github.io/AudioKitVPM/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"froggi.dev@gmail.com",
+        "name":"FroggiDev",
+        "url":"https://froggi.dev/discord"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"discord",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://froggi.dev/discord",
+        "text":"Join the discord for help"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "https://github.com/froggidev/Froggi-AudioKit"
     ],
-    "packages":[
-        {
-            "name":"froggi.audiokit",
-            "releases":[
-                "https://github.com/froggidev/Froggi-AudioKit/releases/download/v1.0.0/AudioKit1.0.zip"
-            ]
-        }
-    ]
+    
 }
