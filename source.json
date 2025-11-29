@@ -15,7 +15,7 @@
     "bannerUrl":"banner.png",
     "packages":[
         {
-            "name":"com.udonvr.disbridge",
+            "name":"com.froggi.audiokit-listing",
             "releases":[
                 "https://github.com/froggidev/Froggi-AudioKit/releases/download/v1.0.0/AudioKit1.0.zip",
                 "https://github.com/froggidev/Froggi-AudioKit/releases/download/v1.1.0/AudioKit1.1.0.zip"
